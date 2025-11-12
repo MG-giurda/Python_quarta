@@ -1,2 +1,2 @@
 # Python_quarta
-questo repository contiene i codici di python scritti a sistemi retidurante l'anno 2025/26
+Questo repository contiene i codici di python scritti a sistemi reti durante l'anno 2025/26.
